@@ -1,0 +1,58 @@
+{
+   "ervaringen": [
+      {
+         "tag": "software",
+         "periode": "09/2019 – 03/2020",
+         "bedrijf": "Spraying Systems AutoJet Europe",
+         "beschrijving": "Ontwikkelen van Visio templates ((vragen voor de Sales mensen) gekoppeld met VBA en SQL Server en Word proposals maken. Meehelpen als 2e programmeur (backup) aan de interne ERP .NET software om orders te maken."
+      },
+      {
+         "tag": "software",
+         "periode": "11/2018 – 03/2019",
+         "bedrijf": "De Jaeger Automation",
+         "beschrijving": "Mee programmeren aan de interne tighting met C# en SQL Server als backend en GIT en DevOPS als source."
+      },
+	  {
+         "tag": "software",
+         "periode": "01/2018 – 05/2018",
+         "bedrijf": "AZ Maria Middelares",
+         "beschrijving": "Ontwikkelen van nieuwe schermen en oplossen van kleine bugs in de medische applicatie."
+      },
+	  {
+         "tag": "software",
+         "periode": "08/2017 – 09/2017",
+         "bedrijf": "Authority",
+         "beschrijving": "Beheren en maken van Wordpress websites + Google Analytics instellen."
+      },
+      {
+         "tag": "software",
+         "periode": "10/2016 – 12/2016",
+         "bedrijf": "Tradecom",
+         "beschrijving": "Ontwikkelen van software met C# voor het bewerken van binnenkomende files en omzetten in een andere extensie."
+      },
+	  {
+         "tag": "software",
+         "periode": "09/2014 – 12/2015",
+         "bedrijf": "Nationale Loterij",
+         "beschrijving": "Maken van Oracle sql scripts dat dan gebruikt wordt door Datawarehouse die analyses maken van de verschillende POS om zo hun strategie verder te kunnen bepalen."
+      },
+	  {
+         "tag": "software",
+         "periode": "08/2013 – 08/2014",
+         "bedrijf": "CM Midden-Vlaanderen",
+         "beschrijving": "Aanmaken van Java interne websites gekoppeld met Oracle database en meehelpen met verschillende taken van de helpdesk."
+      },
+	  {
+         "tag": "website",
+         "periode": "03/2012 – 04/2012",
+         "bedrijf": "My Websitebuilder",
+         "beschrijving": "Ontwikkelen van een website beschreven in een analyse Document en een basis Photoshop psd bestand."
+      },
+	  {
+         "tag": "website",
+         "periode": "06/2011 – 07/2011",
+         "bedrijf": "HR Technologies",
+         "beschrijving": "Omzetten van een website geschreven in klassieke ASP naar ASP.Net Framework ."
+      }
+   ]
+}
